@@ -1,0 +1,16 @@
+manampy annotation niveau méthode 1 tsy makany am vue fa direct json
+ohatra hoe @apirest
+
+alohany dispatch de miteste anilay annotation aloha de mila json no miverina 
+refa tsy le annotation vaovao de comme d'hab
+printwriter ilay json
+
+1. mretourner object coté dev
+coté framework mformater azy ho json 
+2. attribut 1 amle api boolean json sa tsia de raha tsia de atao to json
+
+refa string de json, refa autres que string de atao to json
+
+A suivre -upload de ficher
+	-gestion de session
+	-autorisation
